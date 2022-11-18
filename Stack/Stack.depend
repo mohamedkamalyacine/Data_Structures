@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1668779443 source:d:\iti_data\data structures\labs\stack\main.c
+1668779991 source:d:\iti_data\data structures\labs\stack\main.c
 	<stdio.h>
 	<stdlib.h>
 	"Stack.h"
