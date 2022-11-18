@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1668772960 source:d:\iti_data\data structures\labs\stack\main.c
+1668779443 source:d:\iti_data\data structures\labs\stack\main.c
 	<stdio.h>
 	<stdlib.h>
 	"Stack.h"
 
-1668773557 d:\iti_data\data structures\labs\stack\stack.h
+1668779443 d:\iti_data\data structures\labs\stack\stack.h
 
-1668773557 source:d:\iti_data\data structures\labs\stack\stack.c
+1668779505 source:d:\iti_data\data structures\labs\stack\stack.c
 	<stdio.h>
 	<stdlib.h>
 	"Stack.h"

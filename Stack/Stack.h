@@ -6,11 +6,12 @@ typedef struct St_node_t Node;
 struct St_node_t
 {
     int Data;
-    Node* Next;
+    Node* Prev;
 };
 
 void push(int data);
-void Display();
-int pull();
-
+void Pull();
+int popWithDelete();
+//void Display();
+//void popWithoutDelete();
 #endif // STACK_H_INCLUDED
