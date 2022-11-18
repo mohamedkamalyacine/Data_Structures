@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668530123 source:d:\iti_data\data structures\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1668522851 d:\iti_data\data structures\linked_list\linkedlist.h
+
+1668530439 source:d:\iti_data\data structures\linked_list\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
