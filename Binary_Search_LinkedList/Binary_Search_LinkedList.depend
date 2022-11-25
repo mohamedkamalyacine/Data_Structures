@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1669394480 source:d:\iti_data\data structures\labs\binary_search_linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1669395433 d:\iti_data\data structures\labs\binary_search_linkedlist\linkedlist.h
+
+1669396491 source:d:\iti_data\data structures\labs\binary_search_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"BinarySearch.h"
+
+1669395743 d:\iti_data\data structures\labs\binary_search_linkedlist\binarysearch.h
+	"linkedlist.h"
+
+1669397081 source:d:\iti_data\data structures\labs\binary_search_linkedlist\binarysearch.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"BinarySearch.h"
+

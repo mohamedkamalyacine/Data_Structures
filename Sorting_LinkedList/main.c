@@ -12,8 +12,15 @@ int main()
     Add(6);
     Add(2);
     Add(0);
-    bubbleSort();
-
     Display();
+    //printf("\n");
+
+    printf("\nIndex 4: %d \n", GetDataByIndex(4));
+
+    bubbleSort();
+    Display();
+
+    printf("\nIndex 4: %d \n", GetDataByIndex(4));
+
     return 0;
 }
