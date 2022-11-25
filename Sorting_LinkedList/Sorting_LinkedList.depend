@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1669379736 source:d:\iti_data\data structures\labs\sorting_linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1669381865 d:\iti_data\data structures\labs\sorting_linkedlist\linkedlist.h
+
+1669383345 source:d:\iti_data\data structures\labs\sorting_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"Sorting.h"
+
+1669382942 d:\iti_data\data structures\labs\sorting_linkedlist\sorting.h
+	"linkedlist.h"
+
+1669384947 source:d:\iti_data\data structures\labs\sorting_linkedlist\sorting.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"Sorting.h"
+
