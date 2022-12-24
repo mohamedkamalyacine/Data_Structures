@@ -1,5 +1,13 @@
 # depslib dependency file v1.0
-1671882982 source:d:\iti_data\data structures\labs\tree\main.c
+1671894941 source:d:\iti_data\data structures\labs\tree\main.c
 	<stdio.h>
 	<stdlib.h>
+	"Tree_prototype.h"
+
+1671893051 d:\iti_data\data structures\labs\tree\tree_prototype.h
+
+1671895860 source:d:\iti_data\data structures\labs\tree\tree_program.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree_prototype.h"
 
